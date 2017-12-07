@@ -3,8 +3,8 @@
 
 Αγαπητέ πρωτοετή φοιτητή, 
 Το παρόν υλικό στοχεύει στην εξοικείωση των πρωτοετών φοιτητών της ΣΗΜΜΥ με την εργαστηριακή εξέταση του μαθήματος. Λύνονται κάποιες σειρές προβλημάτων από παλαιότερα έτη καθώς και προτείνονται τεχνικές που είναι καλό να ακολουθούνται κατά τη διάρκεια της εξέτασης. Αν έχεις απορίες πάνω στο υλικό που έχει ανέβει εδώ ή θες με οποιονδήποτε τρόπο να συνεισφέρεις στη βελτίωση του, μην διστάσεις και επικοινώνησε μαζί μας στέλνοντας email σε έναν από εμάς:
-1. Κωνσταντίνος Αμεράνης [kameranis@gmail.com](kameranis@gmail.com)
-2. Παναγιώτης Κωστοπαναγιώτης [panagiotis.kostopanagiotis@gmail.com](panagiotis.kostopanagiotis@gmail.com)
-3. Μάριος Παπαχρήστου [papachristoumarios@gmail.com](papachristoumarios@gmail.com)
+1. Κωνσταντίνος Αμεράνης [kameranis@gmail.com](mailto:kameranis@gmail.com)
+2. Παναγιώτης Κωστοπαναγιώτης [panagiotis.kostopanagiotis@gmail.com](mailto:panagiotis.kostopanagiotis@gmail.com)
+3. Μάριος Παπαχρήστου [papachristoumarios@gmail.com](mailto:papachristoumarios@gmail.com)
 
 Το παρόν υλικό διατίθεται με άδεια GNU GPL v3.
