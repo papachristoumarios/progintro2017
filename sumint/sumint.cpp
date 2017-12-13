@@ -12,11 +12,16 @@ int main() { // O(N) solution
 	cin >> N >> K;
 	ll S[N + 1], count = 0;
 	S[0] = 0;
+	
+	// Prefix sums
 	for (int i = 1; i <= N; i++) {
 		cin >> x;
 		S[i] = S[i-1] + x;
 	}
 	
+	// Two pointers l, r
+	// Find the largest contiguous subarray s.t. S[r] - S[l-1] <= K 
+	// The number of intervals given that they must start from l is r-l
 	int l, r;
 	for (l = 1, r = 1; l <= N; l++) {
 		while (r <= N && S[r] - S[l -1] <= K) r++;
