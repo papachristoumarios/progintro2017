@@ -1,8 +1,7 @@
 /* You are given an array A[] of N elements and an integer K
  * and you want to count the number of subarrays A[i..j] 
  * such that A[i] + ... + A[j] <= K
-*/
-
+ */
 #include <iostream>
 #include <algorithm>
 using namespace std;
