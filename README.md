@@ -6,6 +6,6 @@
 1. Κωνσταντίνος Αμεράνης [kameranis@gmail.com](mailto:kameranis@gmail.com)
 2. Παναγιώτης Κωστοπαναγιώτης [panagiotis.kostopanagiotis@gmail.com](mailto:panagiotis.kostopanagiotis@gmail.com)
 3. Μάριος Παπαχρήστου [papachristoumarios@gmail.com](mailto:papachristoumarios@gmail.com)
-4. Νίκος Βάθης
+4. Νίκος Βάθης [softsilverwind](https://github.com/softsilverwind)
 
 Το παρόν υλικό διατίθεται με άδεια GNU GPL v3.
